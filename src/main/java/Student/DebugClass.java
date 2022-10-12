@@ -16,6 +16,9 @@ import java.util.Scanner;
 public class DebugClass {
 
     public static void main(String[] args) {
+        
+        // Updated 
+        
         Login lg = new Login();
         AddStudent add = new AddStudent();
         DeleteStudent delete = new DeleteStudent();
